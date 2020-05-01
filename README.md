@@ -1,2 +1,2 @@
-# ANGRY-BIRD-STAGE-7
-JAVA SCRIPT
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
